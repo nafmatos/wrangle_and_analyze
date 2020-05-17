@@ -1,5 +1,5 @@
 # Wrangle and Analyze Data
-Wrangel and Analyze Data is part of Udacity Data Science Foundations II Nanodegree program (ND111).<br>
+Wrangle and Analyze Data is part of Udacity Data Science Foundations II Nanodegree program (ND111).<br>
 
 In this project data was gathered from files provided by Udacity, which were downloaded manually and programmatically, 
 and from the Twitter account [WeRateDogs](https://twitter.com/dog_rates) using the 
